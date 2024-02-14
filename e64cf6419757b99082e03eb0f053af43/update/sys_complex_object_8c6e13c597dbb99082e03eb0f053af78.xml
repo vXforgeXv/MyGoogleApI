@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_complex_object">
+    <sys_complex_object action="INSERT_OR_UPDATE">
+        <label/>
+        <name>FD886e13c5e6dbb99035e18bc7de93ed78</name>
+        <namespace>FlowDesigner</namespace>
+        <scope_name>e64cf6419757b99082e03eb0f053af43</scope_name>
+        <serialized_content>{"FlowDesigner:FD886e13c5e6dbb99035e18bc7de93ed78":{"c_phone":"String","c_phone.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"String\",\"read_only\":\"false\",\"hint\":\"\",\"uiType\":\"string\",\"default_value\":\"\",\"label\":\"Phone Number\",\"mandatory\":\"false\",\"order\":\"2\",\"max_length\":\"0\"}"},"c_email":"String","c_email.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"String\",\"read_only\":\"false\",\"hint\":\"\",\"uiType\":\"string\",\"default_value\":\"\",\"label\":\"Email\",\"mandatory\":\"false\",\"order\":\"3\",\"max_length\":\"0\"}"},"c_name":"String","c_name.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"String\",\"read_only\":\"false\",\"hint\":\"\",\"uiType\":\"string\",\"default_value\":\"\",\"label\":\"Display Name\",\"mandatory\":\"false\",\"order\":\"1\",\"max_length\":\"0\"}"}},"FlowDesigner:FD886e13c5e6dbb99035e18bc7de93ed78.$type_facets":{"SimpleMapFacet":"{\"sourceId\":\"\",\"default_value\":\"\",\"label\":\"Contacts\",\"mandatory\":\"false\",\"uiUniqueId\":\"d4b9612f-b1f5-4dcf-88a0-1d3664ef890f\",\"uiTypeLabel\":\"Object\",\"co_type_name\":\"FD886e13c5e6dbb99035e18bc7de93ed78\",\"element_mapping_provider\":\"com.glide.flow_design.action.data.FlowDesignVariableMapper\",\"read_only\":\"false\",\"sourceUiUniqueId\":\"\",\"sourceType\":\"\",\"hint\":\"\",\"uiType\":\"object\",\"order\":\"1\",\"max_length\":\"65000\"}"}}</serialized_content>
+        <sys_class_name>sys_complex_object</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-12-22 16:26:05</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>8c6e13c597dbb99082e03eb0f053af78</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>FD886e13c5e6dbb99035e18bc7de93ed78</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="IP API Spoke" source="x_683526_ip_api">e64cf6419757b99082e03eb0f053af43</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="IP API Spoke">e64cf6419757b99082e03eb0f053af43</sys_scope>
+        <sys_update_name>sys_complex_object_8c6e13c597dbb99082e03eb0f053af78</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-12-22 16:26:05</sys_updated_on>
+        <type>complex_object_schema</type>
+    </sys_complex_object>
+</record_update>

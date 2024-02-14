@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_package_dependency_m2m">
+    <sys_package_dependency_m2m action="INSERT_OR_UPDATE">
+        <dependency display_value="Task table schema" source="com.glide.task">576ae17a45113010c0a05206e0e0f8e8</dependency>
+        <min_version>1.0.0</min_version>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-12-22 17:32:13</sys_created_on>
+        <sys_id>bc8d2b45975fb99082e03eb0f053afbc</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_package display_value="IP API Spoke" source="x_683526_ip_api">e64cf6419757b99082e03eb0f053af43</sys_package>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-12-22 17:32:13</sys_updated_on>
+    </sys_package_dependency_m2m>
+</record_update>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>1000</order>
+        <role display_value="x_683526_ip_api.google_contacts_user" name="x_683526_ip_api.google_contacts_user">fb7d6bc1975fb99082e03eb0f053af5e</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-12-22 17:32:09</sys_created_on>
+        <sys_id>ff7de745975fb99082e03eb0f053af74</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>fb7d6bc1975fb99082e03eb0f053af5e</sys_name>
+        <sys_package display_value="IP API Spoke" source="x_683526_ip_api">e64cf6419757b99082e03eb0f053af43</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="IP API Spoke">e64cf6419757b99082e03eb0f053af43</sys_scope>
+        <sys_update_name>sys_embedded_help_role_ff7de745975fb99082e03eb0f053af74</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-12-22 17:32:09</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>
