@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-04-04 13:01:52</sys_created_on>
+        <sys_id>77e4166e97d90210b669ff0de053afff</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_683526_ip_api_google_contacts.itil</sys_name>
+        <sys_package display_value="IP API Spoke" source="x_683526_ip_api">e64cf6419757b99082e03eb0f053af43</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="IP API Spoke">e64cf6419757b99082e03eb0f053af43</sys_scope>
+        <sys_security_acl display_value="x_683526_ip_api_google_contacts">588d2b45975fb99082e03eb0f053af5f</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_77e4166e97d90210b669ff0de053afff</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-04-04 13:01:52</sys_updated_on>
+        <sys_user_role display_value="itil" name="itil">282bf1fac6112285017366cb5f867469</sys_user_role>
+    </sys_security_acl_role>
+</record_update>
