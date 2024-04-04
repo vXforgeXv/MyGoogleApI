@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="562d2f05975fb99082e03eb0f053af2b" extends="task" label="Google Contacts" max_length="40" name="x_683526_ip_api_google_contacts" type="collection">
+        <element label="Email" max_length="40" name="email" type="string"/>
+        <element label="Name" max_length="255" name="name" type="string_full_utf8"/>
+        <element attributes="edge_encryption_enabled=true" label="Phone Number" max_length="40" name="phone_number" type="phone_number_e164"/>
+    </element>
+</database>

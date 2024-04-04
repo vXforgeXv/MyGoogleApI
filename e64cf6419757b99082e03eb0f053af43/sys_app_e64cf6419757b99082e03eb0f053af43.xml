@@ -16,6 +16,7 @@
         <logo/>
         <menu/>
         <name>IP API Spoke</name>
+        <package_json/>
         <private>false</private>
         <restrict_table_access>false</restrict_table_access>
         <runtime_access_tracking>permissive</runtime_access_tracking>
@@ -42,4 +43,5 @@
         <vendor_prefix/>
         <version>1.0.0</version>
     </sys_app>
+    <sys_translated_text action="delete_multiple" query="documentkey=e64cf6419757b99082e03eb0f053af43"/>
 </record_update>

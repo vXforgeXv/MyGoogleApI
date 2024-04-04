@@ -5,11 +5,14 @@
         <active>true</active>
         <annotation/>
         <attributes>browserActivatedIn=chrome,integrationActivatedIn=standalone,labelCacheCleanUpExecuted=true,timeFromCreateToActivate=3456000,viewActivatedIn=naturalLanguage</attributes>
+        <authored_on_release_version/>
         <callable_by_client_api>false</callable_by_client_api>
         <category/>
         <copied_from/>
         <copied_from_name/>
         <description/>
+        <flow_priority/>
+        <generation_source/>
         <internal_name>ysn_test_data_stream_contacts</internal_name>
         <label_cache>[{"name":"10760969-2b51-4689-9e86-4c0869b7b5e1.contacts.c_email","label":"1 - Get Contacts➛Contacts➛Email","reference":"","reference_display":"","type":"string","base_type":"string","column_name":"","attributes":{}},{"name":"10760969-2b51-4689-9e86-4c0869b7b5e1.contacts.c_phone","label":"1 - Get Contacts➛Contacts➛Phone Number","reference":"","reference_display":"","type":"string","base_type":"string","column_name":"","attributes":{}},{"name":"10760969-2b51-4689-9e86-4c0869b7b5e1.contacts","label":"1 - Get Contacts➛Contacts","reference_display":"Contacts","type":"object","base_type":"object","attributes":{"uiType":"object","uiTypeLabel":"Object","co_type_name":"FDade62b099b1fb99042a65a2ece9ad4ac","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper","uiUniqueId":"d4b9612f-b1f5-4dcf-88a0-1d3664ef890f"}},{"name":"10760969-2b51-4689-9e86-4c0869b7b5e1.contacts.c_name","label":"1 - Get Contacts➛Contacts➛Display Name","reference":"","reference_display":"","type":"string","base_type":"string","column_name":"","attributes":{}}]</label_cache>
         <master_snapshot>0ddbaf41975fb99082e03eb0f053afa1</master_snapshot>
@@ -30,7 +33,7 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>8a6aa785971fb99082e03eb0f053afa7</sys_id>
-        <sys_mod_count>19</sys_mod_count>
+        <sys_mod_count>0</sys_mod_count>
         <sys_name>ySN Test Data stream contacts</sys_name>
         <sys_overrides/>
         <sys_package display_value="IP API Spoke" source="x_683526_ip_api">e64cf6419757b99082e03eb0f053af43</sys_package>
@@ -38,7 +41,7 @@
         <sys_scope display_value="IP API Spoke">e64cf6419757b99082e03eb0f053af43</sys_scope>
         <sys_update_name>sys_hub_flow_8a6aa785971fb99082e03eb0f053afa7</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2023-12-22 18:16:18</sys_updated_on>
+        <sys_updated_on>2024-02-14 05:11:17</sys_updated_on>
         <type>flow</type>
     </sys_hub_flow>
     <sys_translated_text action="delete_multiple" query="documentkey=8a6aa785971fb99082e03eb0f053afa7"/>
@@ -162,6 +165,7 @@
         <comment/>
         <display_text/>
         <flow display_value="ySN Test Data stream contacts">8a6aa785971fb99082e03eb0f053afa7</flow>
+        <generation_source/>
         <order>1</order>
         <parent_ui_id/>
         <sys_class_name>sys_hub_action_instance</sys_class_name>
@@ -186,6 +190,7 @@
         <comment/>
         <display_text/>
         <flow display_value="ySN Test Data stream contacts">8a6aa785971fb99082e03eb0f053afa7</flow>
+        <generation_source/>
         <order>2</order>
         <parent_ui_id>10760969-2b51-4689-9e86-4c0869b7b5e1</parent_ui_id>
         <sys_class_name>sys_hub_action_instance</sys_class_name>
@@ -254,11 +259,13 @@
         <active>true</active>
         <annotation/>
         <attributes>browserActivatedIn=chrome,integrationActivatedIn=standalone,labelCacheCleanUpExecuted=true,viewActivatedIn=naturalLanguage</attributes>
+        <authored_on_release_version/>
         <callable_by_client_api>false</callable_by_client_api>
         <category/>
         <copied_from/>
         <copied_from_name/>
         <description/>
+        <flow_priority/>
         <internal_name>ysn_test_data_stream_contacts</internal_name>
         <label_cache>[{"name":"10760969-2b51-4689-9e86-4c0869b7b5e1.contacts.c_email","label":"1 - Get Contacts➛Contacts➛Email","reference":"","reference_display":"","type":"string","base_type":"string","column_name":"","attributes":{}},{"name":"10760969-2b51-4689-9e86-4c0869b7b5e1.contacts.c_phone","label":"1 - Get Contacts➛Contacts➛Phone Number","reference":"","reference_display":"","type":"string","base_type":"string","column_name":"","attributes":{}},{"name":"10760969-2b51-4689-9e86-4c0869b7b5e1.contacts","label":"1 - Get Contacts➛Contacts","reference_display":"Contacts","type":"object","base_type":"object","attributes":{"uiType":"object","uiTypeLabel":"Object","co_type_name":"FDade62b099b1fb99042a65a2ece9ad4ac","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper","uiUniqueId":"d4b9612f-b1f5-4dcf-88a0-1d3664ef890f"}},{"name":"10760969-2b51-4689-9e86-4c0869b7b5e1.contacts.c_name","label":"1 - Get Contacts➛Contacts➛Display Name","reference":"","reference_display":"","type":"string","base_type":"string","column_name":"","attributes":{}}]</label_cache>
         <master>true</master>
@@ -366,6 +373,7 @@
         <comment/>
         <display_text/>
         <flow display_value="ySN Test Data stream contacts">0ddbaf41975fb99082e03eb0f053afa1</flow>
+        <generation_source/>
         <order>2</order>
         <parent_ui_id>10760969-2b51-4689-9e86-4c0869b7b5e1</parent_ui_id>
         <sys_class_name>sys_hub_action_instance</sys_class_name>
@@ -428,6 +436,7 @@
         <comment/>
         <display_text/>
         <flow display_value="ySN Test Data stream contacts">0ddbaf41975fb99082e03eb0f053afa1</flow>
+        <generation_source/>
         <order>1</order>
         <parent_ui_id/>
         <sys_class_name>sys_hub_action_instance</sys_class_name>

@@ -2,7 +2,7 @@
     <sys_dictionary action="INSERT_OR_UPDATE" element="phone_number" table="x_683526_ip_api_google_contacts">
         <active>true</active>
         <array>false</array>
-        <attributes/>
+        <attributes>edge_encryption_enabled=true</attributes>
         <audit>false</audit>
         <calculation><![CDATA[(function calculatedFieldValue(current) {
 
@@ -52,7 +52,6 @@
         <sys_class_name>sys_dictionary</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2023-12-22 17:32:09</sys_created_on>
-        <sys_id>d95de7c1975fb99082e03eb0f053af48</sys_id>
         <sys_name>Phone Number</sys_name>
         <sys_package display_value="IP API Spoke" source="x_683526_ip_api">e64cf6419757b99082e03eb0f053af43</sys_package>
         <sys_policy/>
