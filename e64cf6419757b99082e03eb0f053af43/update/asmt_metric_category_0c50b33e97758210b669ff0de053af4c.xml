@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="asmt_metric_category">
+    <asmt_metric_category action="INSERT_OR_UPDATE">
+        <create_stakeholders>false</create_stakeholders>
+        <description/>
+        <details/>
+        <filter/>
+        <metric_type display_value="xMy RA">7d8fe33297f98210b669ff0de053af21</metric_type>
+        <name>New Assessment</name>
+        <order>100</order>
+        <qb_evaluation_method/>
+        <roles/>
+        <scoring_type>percent</scoring_type>
+        <sys_class_name>asmt_metric_category</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-04-30 10:50:47</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>0c50b33e97758210b669ff0de053af4c</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>New Assessment</sys_name>
+        <sys_package display_value="IP API Spoke" source="x_683526_ip_api">e64cf6419757b99082e03eb0f053af43</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="IP API Spoke">e64cf6419757b99082e03eb0f053af43</sys_scope>
+        <sys_update_name>asmt_metric_category_0c50b33e97758210b669ff0de053af4c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-04-30 10:50:48</sys_updated_on>
+        <table>change_request</table>
+        <total_metrics>2</total_metrics>
+        <weight>10</weight>
+    </asmt_metric_category>
+    <sys_translated_text action="delete_multiple" query="documentkey=0c50b33e97758210b669ff0de053af4c"/>
+</record_update>

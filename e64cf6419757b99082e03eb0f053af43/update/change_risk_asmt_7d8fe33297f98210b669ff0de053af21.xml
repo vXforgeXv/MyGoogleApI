@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="change_risk_asmt">
+    <change_risk_asmt action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <allow_public>false</allow_public>
+        <allow_retake>false</allow_retake>
+        <anonymize>false</anonymize>
+        <business_rule/>
+        <chat_survey>false</chat_survey>
+        <condition table="change_request">state=-5^type=normal^EQ<item display_value="New" endquery="false" field="state" goto="false" newquery="false" operator="=" or="false" value="-5"/>
+            <item display_value="Normal" endquery="false" field="type" goto="false" newquery="false" operator="=" or="false" value="normal"/>
+            <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
+        </condition>
+        <default_filter/>
+        <delete_business_rule/>
+        <description/>
+        <disable_ui_action/>
+        <display_all_filters>false</display_all_filters>
+        <display_field/>
+        <duration>1970-01-15 00:00:00</duration>
+        <enable_ui_action/>
+        <end_note/>
+        <enforce_condition>false</enforce_condition>
+        <evaluation_method>assessment</evaluation_method>
+        <filter_condition/>
+        <filter_table/>
+        <grc_classification display_value="None">ebfbf2b7076220100deb2bfb9bd300ba</grc_classification>
+        <grc_type/>
+        <introduction/>
+        <job/>
+        <live_feed>false</live_feed>
+        <name>xMy RA</name>
+        <not_show_intro_note>false</not_show_intro_note>
+        <notify_if_overdue>false</notify_if_overdue>
+        <notify_user>true</notify_user>
+        <one_click_survey>false</one_click_survey>
+        <overdue_notify_user/>
+        <portal_pagination>category</portal_pagination>
+        <publish_state>published</publish_state>
+        <roles/>
+        <sample_metric/>
+        <scale_factor>1</scale_factor>
+        <schedule_period>0</schedule_period>
+        <schedule_type>on_demand</schedule_type>
+        <scoring_type>percent</scoring_type>
+        <signature/>
+        <source_table/>
+        <survey_owners>6816f79cc0a8016401c5a33be04be441</survey_owners>
+        <sys_class_name>change_risk_asmt</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-04-30 10:47:33</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>7d8fe33297f98210b669ff0de053af21</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>xMy RA</sys_name>
+        <sys_package display_value="IP API Spoke" source="x_683526_ip_api">e64cf6419757b99082e03eb0f053af43</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="IP API Spoke">e64cf6419757b99082e03eb0f053af43</sys_scope>
+        <sys_update_name>change_risk_asmt_7d8fe33297f98210b669ff0de053af21</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-04-30 10:50:57</sys_updated_on>
+        <table>change_request</table>
+        <url/>
+        <user_field/>
+        <user_field_business_rule/>
+    </change_risk_asmt>
+    <sys_translated_text action="delete_multiple" query="documentkey=7d8fe33297f98210b669ff0de053af21"/>
+</record_update>
